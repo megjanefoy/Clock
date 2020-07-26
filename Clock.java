@@ -5,11 +5,8 @@ import java.time.ZoneId;
 
 /** 
  * Title: Assignment 3 
- * Semester: COP3337 – Fall 2019
+ * Semester: COP3337 â€“ Fall 2019
  * @author Megan Jane Thompson
- *
- * I affirm that this program is entirely my own work
- * and none of it is the work of any other person.
  * 
  * This program sets an alarm, provided the current time, gets the 
  * time and checks for the alarm, gets the hour, and gets the minutes.
